@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vvi+/z0b9s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivang\\OneDrive\\Рабочий стол\\хзешечка\\Лаба ооп\\ShelfShare-main\\backend\\ShelfShare.Api\\ShelfShare.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivang\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\ivang\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
